@@ -9,7 +9,8 @@ Install Prerequest
 
 conda install -c conda-forge opencv
 
-conda install matplotlib, PyQt5
+conda install matplotlib
+conda install pyqt
 
 Runing:
 
